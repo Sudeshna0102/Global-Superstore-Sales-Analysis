@@ -75,6 +75,7 @@ Contributions are welcome! Please follow these guidelines:
 - https://www.kaggle.com/datasets/tahir1413/global-superstore-2016 (Data Source - Kaggle)
 - <a href="https://www.flaticon.com/free-icons/profit" title="profit icons">Profit icons created by nawicon - Flaticon</a> (Icons used in Dashboard - Flaticon)
 - <a href="https://www.flaticon.com/free-animated-icons/line-chart" title="line chart animated icons">Line chart animated icons created by Freepik - Flaticon</a> (Icons used in Dashboard - Flaticon)
+- https://www.flaticon.com/search?word=profit&type=animated-icon
 
 
 ---
