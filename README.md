@@ -55,7 +55,12 @@ The repository features an end-to-end analysis on the sales data of the organiza
 - Interactive dashboards: https://github.com/Sudeshna0102/Global-Superstore-Sales-Analysis/blob/8a89dfb90faac63fa2657e47b6e1c415ec939354/Dashboard_Sales.xlsx
 - Generated Summary Report: https://1drv.ms/w/c/d3f8f84c9cffff41/IQBIKnGR2tZySbhvuhfEQYs8AYNkctx7xMrBrHyOVefQIXA?e=mSex3E
 - Generated Detailed Report: https://1drv.ms/w/c/d3f8f84c9cffff41/IQCJicdCY4KVS7GS5p1dSBEhAb6ytsWUoaw2vPTKF_36mqw?e=eEHONh
+  
+<img width="1346" height="675" alt="Image" src="https://github.com/user-attachments/assets/b8b049c2-20ec-4559-864e-74654fe81737" />
 
+<img width="1343" height="671" alt="Image" src="https://github.com/user-attachments/assets/3dd863b5-c328-4a02-9965-d53847c64984" />
+
+<img width="1347" height="657" alt="Image" src="https://github.com/user-attachments/assets/34453ab6-ed3a-4464-9912-d88d7f735ff9" />
 
 ## 👥 Contributing
 Contributions are welcome! Please follow these guidelines:
