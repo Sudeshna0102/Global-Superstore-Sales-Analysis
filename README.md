@@ -52,7 +52,7 @@ The repository features an end-to-end analysis on the sales data of the organiza
 - Geographical scope: Worldwide
   
 ## 🔗 Results & Visualizations
-- Interactive dashboards: https://1drv.ms/x/c/d3f8f84c9cffff41/IQAEn3JlQUaiQ7uNR8p4TdLXAR-SYDMntIaEG2pgyBHgfM4?e=hcApeC
+- Interactive dashboards: https://github.com/Sudeshna0102/Global-Superstore-Sales-Analysis/blob/8a89dfb90faac63fa2657e47b6e1c415ec939354/Dashboard_Sales.xlsx
 - Generated Summary Report: https://1drv.ms/w/c/d3f8f84c9cffff41/IQBIKnGR2tZySbhvuhfEQYs8AYNkctx7xMrBrHyOVefQIXA?e=mSex3E
 - Generated Detailed Report: https://1drv.ms/w/c/d3f8f84c9cffff41/IQCJicdCY4KVS7GS5p1dSBEhAb6ytsWUoaw2vPTKF_36mqw?e=eEHONh
 
